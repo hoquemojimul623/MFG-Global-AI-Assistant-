@@ -1,0 +1,6 @@
+{
+  "name": "Global AI Assistant",
+  "description": "Ultra-fast, high-accuracy multilingual AI educational assistant with ChatGPT-style AI photo and banner creation, powered by Gemini in Assamese, English, and all languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

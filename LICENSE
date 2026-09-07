@@ -1,0 +1,69 @@
+MFG GLOBAL AI SOFTWARE LICENSE & END USER AGREEMENT
+================================================================================
+Copyright (c) 2026 MFG EDUCATION. All Rights Reserved.
+স্বত্বাধিকাৰী আৰু নিয়োজক (Owner & App Deployer): MOJIMUL HOQUE (Instagram: @mfgmojimul69)
+Organization: MFG EDUCATION | Project: MFG Global AI (Android Edition)
+License Certificate Registration ID: MFG-AI-2026-LIC-MH69
+================================================================================
+
+1. GRANT OF LICENSE
+-------------------
+Subject to the terms and conditions of this Agreement, MFG EDUCATION hereby grants
+to the end user a personal, non-exclusive, non-transferable, revocable license to
+install and use the MFG Global AI mobile application ("Application") solely for
+personal, educational, informational, and lawful business assistance purposes.
+
+2. PROPRIETARY RIGHTS & INTELLECTUAL PROPERTY
+---------------------------------------------
+The Application, including its user interface design, unique workflow, AI mode
+orchestration (Fast, Very Fast, Deep Reasoning AI Model, MFG Model VIP, Education,
+and Business), custom graphics, branding, and proprietary algorithms, is the
+exclusive intellectual property of MOJIMUL HOQUE and MFG EDUCATION.
+All rights not expressly granted herein are strictly reserved by MFG EDUCATION.
+
+3. RESTRICTIONS
+----------------
+You agree that you will NOT:
+(a) Reverse engineer, decompile, disassemble, or derive the source code of the Application;
+(b) Sell, rent, lease, sub-license, redistribute, or commercially exploit the Application
+    without explicit written authorization from MOJIMUL HOQUE / MFG EDUCATION;
+(c) Remove, alter, or obscure any proprietary notices, trademarks, or copyright labels;
+(d) Use the Application for any unlawful, harassing, fraudulent, or harmful purposes.
+
+4. USER DATA PRIVACY & FORTIFIED SECURITY
+------------------------------------------
+MFG Global AI adheres to privacy-by-design standards:
+- Local Storage Vault: Chat sessions and history are encrypted locally on the device using
+  Android Jetpack Room SQLite Database.
+- Zero-Leak Sandbox Memory: Transient inputs and attached media are isolated in memory.
+- Network Security: Network transmissions are secured through HTTPS encryption complying
+  with Android Network Security Configurations.
+
+5. THIRD-PARTY OPEN SOURCE LIBRARIES
+-------------------------------------
+The Application utilizes components from trusted open source libraries under the Apache 2.0
+and MIT licenses:
+- Google Android Jetpack Compose & AndroidX Libraries (Apache License 2.0)
+- Kotlin Programming Language & Kotlinx Coroutines (Apache License 2.0)
+- Square Retrofit & Moshi & OkHttp (Apache License 2.0)
+- Coil-kt Image Loading Library (Apache License 2.0)
+- Material Design 3 UI Components (Apache License 2.0)
+
+Copies of the Apache 2.0 license may be obtained at: http://www.apache.org/licenses/LICENSE-2.0
+
+6. DISCLAIMER OF WARRANTIES & LIMITATION OF LIABILITY
+-----------------------------------------------------
+THE APPLICATION IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED. IN NO EVENT SHALL MOJIMUL HOQUE OR MFG EDUCATION BE LIABLE FOR
+ANY INCIDENTAL, SPECIAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER ARISING FROM
+THE USE OF OR INABILITY TO USE THE APPLICATION.
+
+7. GOVERNING AUTHORITY & CONTACT
+--------------------------------
+This license is governed by and construed in accordance with the applicable laws of India.
+For licensing inquiries, permissions, or support:
+- Creator & Owner: Mojimul Hoque
+- Organization: MFG EDUCATION
+- Official Instagram: @mfgmojimul69
+- License ID: MFG-AI-2026-LIC-MH69
+================================================================================
